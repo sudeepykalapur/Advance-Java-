@@ -8,7 +8,7 @@ This repository contains various advanced Java experiments categorized by topics
 ## EXP 1 - List Interface
 
 ### 1A. List Operations
-- ![List Interface Demo](https://github.com/sudeepykalapur/Advance-Java-/blob/main/EXP1-ListInterface/1A-ListInterfaceDemo/ListInterfaceDemo.png)
+- [List Interface Demo](https://github.com/sudeepykalapur/Advance-Java-/blob/main/EXP1-ListInterface/1A-ListInterfaceDemo/ListInterfaceDemo.png)
 
 ### 1B. ArrayList Questions
 - **Q1**: Check if "Red" exists in the list  
